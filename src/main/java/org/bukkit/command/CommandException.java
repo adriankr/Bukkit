@@ -14,8 +14,7 @@ public class CommandException extends RuntimeException {
 
     /**
      * Constructs an instance of <code>CommandException</code> with the
-     * specified detail message.
-     *
+     * specified detail message...
      * @param msg the detail message.
      */
     public CommandException(String msg) {
